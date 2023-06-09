@@ -18,8 +18,4 @@ export class CreateThoughtComponent {
     alert(" novo pensamenti")
   }
 
-  onCancel() {
-    alert("cancel")
-  }
-
 }
