@@ -1,12 +1,6 @@
 {
   "pensamentos": [
     {
-      "id": 1,
-      "conteudo": "O amor é a força mais poderosa que existe.",
-      "autoria": "Mahatma Gandhi",
-      "modelo": "modelo1"
-    },
-    {
       "id": 2,
       "conteudo": "Um sorriso pode ser o melhor remédio para o coração partido.",
       "autoria": "Charlie Chaplin",
@@ -71,12 +65,6 @@
       "conteudo": "Cuide de sua saúde com uma alimentação equilibrada e exercícios diários.",
       "autoria": "Hippocrates",
       "modelo": "modelo3"
-    },
-    {
-      "id": 13,
-      "conteudo": "Através da fotografia, podemos eternizar os momentos mais preciosos da vida.",
-      "autoria": "Ansel Adams",
-      "modelo": "modelo1"
     },
     {
       "id": 14,
