@@ -25,6 +25,11 @@ export class ThoughtService {
     return this.http.delete<Thought>(url);
   }
 
+  edit(pensamento: Thought): Observable<Thought> {
+    const url = `${this.API}/${pensamento.id}`;
+    return this.http.put<Thought>(url, pensamento);
+  }
+
   buscarPorId(id: number): Observable<Thought> {
     const url = `${this.API}/${id}`;
     return this.http.get<Thought>(url);
